@@ -98,3 +98,7 @@ I build end-to-end systems — not just models. I care about clean pipelines, re
 
 Open to **full-time roles, internships, and collaborations** in AI/ML, data, or software engineering.  
 Drop me a mail at **sujeethkatta@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/katta-sujeeth).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sujeethkatta/Sujeethkatta/output/github-snake.svg" />
+</p>
