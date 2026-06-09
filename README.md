@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujeethkatta&color=blue&style=flat-square&label=Profile+Views" />
+</p>
 <h1 align="center">Hey, I'm Sujeeth 👋</h1>
 
 <p align="center">
