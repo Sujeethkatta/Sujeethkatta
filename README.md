@@ -102,3 +102,7 @@ Drop me a mail at **sujeethkatta@gmail.com** or connect on [LinkedIn](https://li
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sujeethkatta/Sujeethkatta/output/github-snake.svg" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sujeethkatta/Sujeethkatta/output/github-snake-dark.svg" />
+</p>
