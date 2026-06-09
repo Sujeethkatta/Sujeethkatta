@@ -70,7 +70,7 @@ I build end-to-end systems — not just models. I care about clean pipelines, re
 | Backend / DB | MySQL, JDBC |
 | Dev Tools | Git, GitHub, VS Code, Jupyter |
 
----
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -78,6 +78,7 @@ I build end-to-end systems — not just models. I care about clean pipelines, re
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+---
 
 ## 📜 Certifications
 
