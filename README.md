@@ -25,7 +25,14 @@ I build end-to-end systems — not just models. I care about clean pipelines, re
 - 🛠 My stack: **Python, Java, SQL, Scikit-learn, NLTK, JDBC, MySQL**
 - 🏏 Former cricket captain — I've led teams under pressure, not just debugged alone
 - 📍 Based in Andhra Pradesh, India
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujeethkatta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeethkatta&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujeethkatta&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🚀 Projects
